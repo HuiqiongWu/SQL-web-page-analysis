@@ -3,7 +3,7 @@
 ## Business goals:
 The company is a e-commerce company and want to improve the efficiency of marketing channels to attract more customers and optimize marketing budget.
 
-## Analytical Process
+## Analytical Process:
 1. Design database schema to create relational database
 
 2. Conduct traffic source analysis to find out the most efficient marketing channel attracting the most number of customers:
